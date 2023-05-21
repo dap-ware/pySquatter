@@ -42,7 +42,7 @@ python3 squatter.py [-h] [-f FILE] [-o OUTPUT] [-m MUTATE [MUTATE ...]] [--disco
 ```
 
 - `-f FILE, --file FILE`: Path to a file with patterns to monitor.
-- `-o OUTPUT, --output OUTPUT`: File to write matched patterns to (default: `matches.txt`).
+- `-o OUTPUT, --output OUTPUT`: File to write matches to (default: `matches.txt`).
 - `-m MUTATE [MUTATE ...], --mutate MUTATE [MUTATE ...]`: Generate and use mutations of the provided words instead of a patterns file.
 - `--discord-webhook DISCORD_WEBHOOK`: Discord webhook URL.
 - `--slack-webhook SLACK_WEBHOOK`: Slack webhook URL.
