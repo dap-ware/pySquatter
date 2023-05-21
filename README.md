@@ -72,5 +72,4 @@ python3 squatter.py [-h] [-f FILE] [-o OUTPUT] [-m MUTATE [MUTATE ...]] [--disco
    ```
    python3 squatter.py -f patterns.txt --slack-webhook https://your-slack-webhook-url
    ```
-```
 
