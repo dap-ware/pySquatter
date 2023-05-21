@@ -1,8 +1,9 @@
 # Squatter
 
 Squatter is a tool for monitoring Certstream for specific patterns and writing the matched patterns to a file. It can also send the matched patterns to Discord or Slack channels using webhooks.
-
-![Image Description](resources/squatter.png)
+<center>
+  ![Image Description](resources/squatter.png)
+</center>
 
 ## Installation
 
