@@ -11,6 +11,7 @@ import string
 import requests
 import json
 from multiprocessing import Process, Manager, Queue
+from termcolor import colored
 
 default_padding = 60
 manager = Manager()
