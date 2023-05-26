@@ -1,2 +1,3 @@
 certstream
 termcolor
+requests
